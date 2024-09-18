@@ -1,0 +1,51 @@
+body {
+    background-color: white;
+}
+
+.div1 {
+    background-color: rgb(182, 175, 175);
+    width: 300px;
+    border-radius: 10px;
+}
+
+.content_1,
+.content_2 {
+    background-color: rgb(185, 183, 180);
+    border-radius: 10px;
+}
+
+
+.img_1,
+.img_2 {
+    width: 300;
+    border-radius: 10px;
+    height: 300px;
+}
+
+h1,
+h2,
+p {
+    background-color: rgb(173, 169, 169);
+    color: white;
+}
+
+iframe {
+    width: 300px;
+    height: 300px;
+}
+
+.div2 {
+    background-color: rgb(180, 178, 174);
+    width: 300px;
+}
+
+.div3 {
+    width: 300px;
+    background-color: rgb(184, 182, 179);
+    border-radius: 10px;
+}
+
+button {
+    width: 150px;
+    /*background-color: rgb(178, 207, 216);*/
+}
